@@ -1,5 +1,5 @@
 ## About Me
-Software Developer with 5+ years professional experience. 
+Software Developer with 6+ years professional experience. 
 Genuinely enjoys programming, hard worker, fast and avid learner, capable and persistent problem solver, can synthesize new information efficiently. 
 Great teamwork and communication skills. Detail oriented with an eye for clean design. 
 
