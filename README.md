@@ -4,5 +4,6 @@ Genuinely enjoys programming, hard worker, fast and avid learner, capable and pe
 Great teamwork and communication skills. Detail oriented with an eye for clean design. 
 
 
-Currently taking courses to gain a Masters in Computer Science with a specialization in Machine Learning.
-I like to spend time on side projects (even when I don't have the time). I feel most productive/fulfilled when I'm building something new.
+Have been dabbling in Unity development, particularly VR.
+Created a some basic experiences including swimming in an ocean with fish, a battle arena, and a ring toss.
+
